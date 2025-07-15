@@ -8,3 +8,9 @@ Sou um desenvolvedor em transição de carreira, atualmente cursando Análise e 
 ✉️ Contato: thalesconsultoramb@gmail.com | 
 
 > Obrigado por visitar meu perfil! 😊
+
+
+### 👨‍🏫 Projetos Acadêmicos
+
+🔗 [Numos – Calculadora de Precificação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t9-numos)  
+Projeto desenvolvido na disciplina de Projeto Web (PUC Minas) com HTML, CSS e JavaScript.
