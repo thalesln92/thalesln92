@@ -12,6 +12,6 @@ Sou um desenvolvedor em transição de carreira, atualmente cursando Análise e 
 
 ### 👨‍🏫 Projetos Acadêmicos
 
-### 🔗 [Numos – Calculadora de Precificação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t9-numos)  
+### 🔗 [Numos – Calculadora de Precificação](https://github.com/thalesln92/numos-projeto)  
 Projeto acadêmico desenvolvido na disciplina de Projeto Web (PUC Minas) com HTML, CSS e JavaScript.  
 Aplicação para cadastro, histórico e cálculo automatizado de serviços.
